@@ -6,7 +6,6 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 import time
 import auth_data
-#testtest
 
 url = "https://iterius.smissltd.com/home"
 driver = webdriver.Chrome(executable_path='/Users/daramuravskaa/PycharmProjects/selenium/chromedriver/chromedriver')
